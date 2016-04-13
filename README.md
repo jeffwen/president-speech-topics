@@ -10,12 +10,11 @@ There is more information about the motivation for this project and the process 
 project_fletcher_cleaning.py - this file contains the scripts that I used to scrape the information from [The American Presidency Project](http://www.presidency.ucsb.edu/sou.php).
 
 * The process of scraping was more or less the same for each of the different types of speeches (state of the union, inaugural address, etc.)
-
-		1. scrape the links for each of the speeches of a certain type (state of the union, inaugural address, etc.)
-		2. use those links to scrape the individual speech page for the speech text, president name, date, and title
-		3. create a dictionary for a particular speech
-		4. loop through all the links to create a list of dictionaries (one for each speech)
-		5. put everything into MongoDB
+	1. scrape the links for each of the speeches of a certain type (state of the union, inaugural address, etc.)
+	2. use those links to scrape the individual speech page for the speech text, president name, date, and title
+	3. create a dictionary for a particular speech
+	4. loop through all the links to create a list of dictionaries (one for each speech)
+	5. put everything into MongoDB
 
 
 project_fletcher_processing.py - this file contains the scripts and functions used to generate topics via latent dirichlet allocation (LDA) and similarity scores using the document matrix after latent semantic indexing (LSI)
