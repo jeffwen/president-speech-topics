@@ -1,0 +1,81 @@
+,topic_group,topic_words,counts,period,scaled_counts,radius
+0,6,"year, treasury, receipts, debt, revenue",209,1,7000.0,47.2034871941
+1,0,"citizens, peace, people, nation, state",179,1,5155.96330275,40.5116537809
+2,5,"spain, power, peace, commerce, powers",158,1,3865.13761468,35.075796701
+3,4,"citizens, peace, state, militia, course",147,1,3188.99082569,31.8604348176
+4,2,"necessary, peace, commerce, people, state",147,1,3188.99082569,31.8604348176
+5,1,"vessels, nations, foreign, present, nation",143,1,2943.11926606,30.6075800841
+6,3,"state, union, nation, present, objects",137,1,2574.31192661,28.6256691862
+7,8,"commerce, laws, service, present, state",134,1,2389.90825688,27.5813601049
+8,7,"nations, peace, commerce, justice, measures",133,1,2328.44036697,27.2243565249
+9,9,"house, citizens, representatives, senate, house representatives",100,1,300.0,9.77205023806
+10,0,"mexico, state, treaty, people, peace",306,2,7000.0,47.2034871941
+11,8,"treasury, mexico, duty, state, year",199,2,3017.22222222,30.990509227
+12,3,"people, duties, mexico, revenue, subject",196,2,2905.55555556,30.4116270231
+13,7,"session, people, present, treaty, power",183,2,2421.66666667,27.7640134174
+14,1,"mexico, state, constitution, citizens, power",179,2,2272.77777778,26.8969819081
+15,6,"foreign, present, mexico, state, subject",176,2,2161.11111111,26.2279055932
+16,9,"people, power, subject, policy, union",173,2,2049.44444444,25.5413082643
+17,4,"year, mexico, commerce, subject, treaty",166,2,1788.88888889,23.8625442612
+18,5,"people, constitution, power, state, general",155,2,1379.44444444,20.9544936495
+19,2,"large, treasury, duties, policy, citizens",126,2,300.0,9.77205023806
+20,0,"year, service, fiscal, fiscal year, department",925,3,7000.0,47.2034871941
+21,1,"indians, claims, citizens, treaty, indian",326,3,2402.86368843,27.656016835
+22,2,"office, lands, subject, report, laws",299,3,2195.64719359,26.4366451784
+23,3,"revenue, report, people, citizens, foreign",298,3,2187.97250859,26.3904012888
+24,6,"currency, people, gold, value, subject",126,3,867.926689576,16.6213611288
+25,9,"people, constitution, union, state, relations",121,3,829.553264605,16.2497693904
+26,7,"acres, people, state, year, laws",115,3,783.505154639,15.7923220774
+27,4,"people, subject, treaty, nations, free",103,3,691.408934708,14.8351710241
+28,5,"citizens, nations, nation, subject, patents",88,3,576.288659794,13.5439424729
+29,8,"year, pensioners, citizens, number, rolls",52,3,300.0,9.77205023806
+30,1,"legislation, vessels, year, department, subject",533,4,7000.0,47.2034871941
+31,0,"laws, products, interests, citizens, foreign",514,4,6723.86117137,46.2630682529
+32,2,"present, laws, free, revenue, citizens",343,4,4238.61171367,36.7313491742
+33,3,"present, policy, laws, national, state",320,4,3904.33839479,35.2532198539
+34,5,"department, report, year, postal, postmastergeneral",214,4,2363.77440347,27.4301432977
+35,7,"year, fiscal, fiscal year, june, total",195,4,2087.63557484,25.7781892735
+36,4,"silver, duty, lands, present, indians",186,4,1956.8329718,24.9575495699
+37,6,"silver, gold, present, coinage, department",175,4,1796.96312364,23.9163359937
+38,9,"secretary, report, department, work, indians",93,4,605.206073753,13.8795920853
+39,8,"citizens, general, power, interests, present",72,4,300.0,9.77205023806
+40,0,"peace, world, nation, power, america",439,5,7000.0,47.2034871941
+41,3,"nation, labor, conditions, necessary, national",419,5,6577.28706625,45.7560432889
+42,1,"year, navy, present, years, order",381,5,5774.13249211,42.8714760228
+43,2,"peace, treaty, world, nation, order",375,5,5647.31861199,42.3980818508
+44,4,"commerce, foreign, federal, interstate, commission",356,5,5245.74132492,40.8628354876
+45,5,"rights, cuba, international, powers, peace",180,5,1525.86750789,22.0385732925
+46,6,"year, army, work, officers, years",179,5,1504.7318612,21.885406724
+47,7,"present, year, treasury, national, work",178,5,1483.59621451,21.7311606267
+48,8,"business, department, legislation, necessary, state",131,5,490.220820189,12.491682572
+49,9,"work, lands, year, acres, commission",122,5,300.0,9.77205023806
+50,0,"read, matter, statement, havent, amendment",31433,6,7000.0,47.2034871941
+51,1,"responsibility, decisions, executive, order, tile",8676,6,2129.3157424,26.0342515086
+52,2,"commission, motor, atomic, agency, distress",4745,6,1287.96319959,20.2477509732
+53,3,"million, federal, year, budget, board",4243,6,1180.52006133,19.3848189664
+54,4,"supreme, questions, answer, laughter, tribunal",1786,6,654.647968311,14.4354050959
+55,5,"secretary, railway, house, commission, committee",1616,6,618.262841809,14.0285129222
+56,6,"morning, come, idea, course, democracy",753,6,433.554817276,11.7475437663
+57,7,"world, transportation, national, industrial, essential",356,6,348.584845387,10.5336604493
+58,8,"world, nations, peace, international, republic",206,6,316.480322004,10.0368727837
+59,9,"senator, press, conference, general, asked",129,6,300.0,9.77205023806
+60,0,"economic, federal, energy, trade, progress",18134,7,7000.0,47.2034871941
+61,1,"problem, black, inflation, pressure, business",8139,7,3289.32786613,32.3577746251
+62,2,"policy, years, problems, democracy, foreign",4819,7,2056.76843797,25.5869053892
+63,3,"kind, believe, decision, campaign, point",4462,7,1924.23117416,24.748773829
+64,4,"middle, east, middle east, peace, prime",1748,7,916.65096692,17.0815416444
+65,5,"vietnam, south, rights, north, vietnamese",1383,7,781.14368039,15.7685051923
+66,6,"laughter, state, washington, national, told",688,7,523.122956724,12.9040772167
+67,7,"secretary, house, press, senate, matter",563,7,476.716351748,12.3184222881
+68,8,"soviet, union, soviet union, world, nuclear",155,7,325.245193107,10.174908373
+69,9,"year, budget, billion, federal, spending",87,7,300.0,9.77205023806
+70,0,"budget, billion, year, defense, spending",19190,8,7000.0,47.2034871941
+71,1,"vietnam, south, north, vietnamese, meeting",9820,8,3715.89244612,34.3919365781
+72,2,"programs, america, federal, help, world",5645,8,2252.58945386,26.7772570044
+73,4,"secretary, house, senate, general, state",2067,8,998.530027202,17.8281232694
+74,3,"weve, trade, world, space, peaceful",1995,8,973.294622306,17.6014005252
+75,5,"rights, civil, statement, civil rights, soviets",577,8,476.29734254,12.3130074675
+76,6,"soviet, union, soviet union, peace, weapons",437,8,427.228499686,11.6615202744
+77,7,"percent, year, increase, inflation, years",248,8,360.985561833,10.7193877204
+78,8,"economic, social, security, social security, democracy",77,8,301.051475204,9.78916037297
+79,9,"press, came, come, questions, thought",74,8,300.0,9.77205023806
